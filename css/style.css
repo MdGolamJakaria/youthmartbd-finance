@@ -5,7 +5,7 @@ header img{
 }
 
 .login-page{
-    margin-top: 80px;
+    margin-top: 8%;
 }
 
 /*---- Start login-form Section-----*/
@@ -94,6 +94,7 @@ header img{
         box-shadow: 0px 3px 5px 0px #0000005e;
         border-radius: 5px;
         overflow-wrap: break-word;
+        margin: 10px;
 
     }
     .founder-invest{
