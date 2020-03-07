@@ -25,4 +25,13 @@ alreadyAccount.addEventListener("click",function(){
     loginArea.style.display="block";
 })
 
+/////click login
+const logInBtn = document.getElementById("loginBtn");
+logInBtn.addEventListener("click",function(){
+    const loginArea = document.getElementById("login-area");
+    loginArea.style.display="none";
+
+    const mainArea1 = document.getElementById("main-area-1");
+    mainArea1.style.display = "block";
+})
 
