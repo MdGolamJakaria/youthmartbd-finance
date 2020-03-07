@@ -61,4 +61,14 @@ header img{
 						margin-bottom: 10px;
 						display: block;
 	}
-	
+    
+    /*----------total finance section-------------*/
+
+    .finance-header{
+        text-transform: uppercase;
+        background-color: cadetblue;
+        color: white;
+    }
+    .amounts-section{
+        background-color: lightgray;
+    }
