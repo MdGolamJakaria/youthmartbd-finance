@@ -32,9 +32,9 @@ logInBtn.addEventListener("click",function(){
     loginArea.style.display="none";
 
     const pageTopMarginRemove= document.getElementById("login-page");
-
     const mainArea1 = document.getElementById("main-area-1");
-    mainArea1.style.display = "block";
-    pageTopMarginRemove.style.marginTop = "0px";
+
+    Object.assign(mainArea1.style,{display:"block"});
+    Object.assign(pageTopMarginRemove.style,{ marginTop:"1%",});
 });
 
