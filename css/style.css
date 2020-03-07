@@ -1,0 +1,67 @@
+/*---- header Section-----*/
+header img{
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+/*---- Start login-form Section-----*/
+.login-form{
+    background-color: rgb(255, 166, 0);
+    padding: 5%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px black;
+    width: 500px;
+    display: block;
+}
+.input-box{
+    margin-bottom: 10px;
+}
+/*---- Sign-up-form Section-----*/
+	div#sign-up-form{	
+					width:350px; 
+					border: 0px solid #dddd;
+					padding: 10px;
+                    background: #c0c0c052;
+                    border-radius: 10px;
+                    display: none;
+	}
+	
+	#inputfild input {
+						padding:8px; 
+						margin-bottom: 10px; 
+						width: 100%;
+	}
+	
+	.signuptitle {	
+					background:#f4a803;
+					margin-bottom:10px;
+					width:100%;		
+	}
+	
+	.signuptitle h2{font-size: 14px;
+					padding: 10px; 
+					margin:0px; color: 
+					white; font-family: 
+					arial black;text-align: center
+	}
+	
+	.submitButton input{background:#f4a803;
+						color: white; 
+						padding:8px; 
+						width:100%; 
+						border:1px solid white; 
+						border-radius: 10px
+	}
+						
+	#inputfild select {
+						padding:8px; 
+						margin-bottom: 10px; 
+						width: 100%;
+	}
+	.inputfild span {
+						width:100%; 
+						padding: 10px; 
+						margin-bottom: 10px;
+						display: block;
+	}
+	
