@@ -104,9 +104,17 @@ header img{
         background: orange;
     }
     .profit{
-        background: lightseagreen
+        background: lightseagreen;
     }
-
+    .cash{
+        background: green ;
+    }
+    .dues{
+        background: red;
+    }
+    .product-storage{
+        background: gold;
+    }
     /*---------Investors details section----------*/
     .i-details-header h4{
         text-transform: uppercase;
