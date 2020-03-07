@@ -18,9 +18,9 @@ header img{
 }
 /*---- Sign-up-form Section-----*/
 	div#sign-up-form{	
-					width:350px; 
+					width:500px; 
 					border: 0px solid #dddd;
-					padding: 10px;
+					padding: 50px;
                     background: #c0c0c052;
                     border-radius: 10px;
                     display: none;
@@ -45,12 +45,9 @@ header img{
 					arial black;text-align: center
 	}
 	
-	.submitButton input{background:#f4a803;
+	.submitButton button{background:#f4a803;
 						color: white; 
-						padding:8px; 
-						width:100%; 
-						border:1px solid white; 
-						border-radius: 10px
+						border-radius: 5px
 	}
 						
 	#inputfild select {
